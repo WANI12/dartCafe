@@ -1,2 +1,4 @@
 # dartCafe
 these is a community cafe for resting
+Building a community of coffee lovers in one space 
+With DartCafe its always a heart and love for all 
