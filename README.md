@@ -4,4 +4,4 @@ Building a community of coffee lovers in one space
 With DartCafe its always a heart and love for all 
 #building solution
 
-Working on the coffee soluton
+Working on the coffee solution for all
