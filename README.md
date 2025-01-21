@@ -9,3 +9,5 @@ Working on the coffee solution for all
 # Coffee for all
 Best coffee ordering platform
 Best platform for coffee distribution 
+Place for coffee and chil in town 
+order your coffee get it in your doorstep
